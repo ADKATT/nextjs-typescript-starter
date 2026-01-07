@@ -1,4 +1,4 @@
-# react-sample-code
+# nextjs-typescript-starter
 
 A compact sample React codebase demonstrating component-driven, type-safe full‑stack patterns and a feature-based folder structure.
 
